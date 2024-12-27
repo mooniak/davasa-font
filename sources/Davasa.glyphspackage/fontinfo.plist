@@ -17,7 +17,7 @@ value = 0;
 }
 );
 date = "2024-12-27 18:24:42 +0000";
-familyName = Davasa;
+familyName = "Davasa Pro DEV";
 featurePrefixes = (
 {
 code = "#> languagesystem
@@ -1163,7 +1163,6 @@ over = -18;
 pos = -300;
 },
 {
-over = -18;
 },
 {
 over = 17;
