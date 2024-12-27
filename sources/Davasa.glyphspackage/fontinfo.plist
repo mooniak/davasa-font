@@ -16,7 +16,7 @@ name = "Write Display Strings";
 value = 0;
 }
 );
-date = "2024-12-27 18:24:42 +0000";
+date = "2024-12-27 18:56:03 +0000";
 familyName = "Davasa Pro DEV";
 featurePrefixes = (
 {
@@ -1142,48 +1142,48 @@ fontMaster = (
 {
 guides = (
 {
-pos = (0,-164);
+pos = (0,-223);
 }
 );
 id = m001;
 metricValues = (
 {
-pos = 975;
+pos = 1327;
 },
 {
-pos = 700;
+pos = 952;
 },
 {
-pos = 501;
+pos = 681;
 },
 {
-over = -18;
+over = -24;
 },
 {
-pos = -300;
+pos = -408;
 },
 {
 },
 {
-over = 17;
-pos = 545;
+over = 23;
+pos = 741;
 },
 {
-over = 18;
-pos = 738;
+over = 24;
+pos = 1004;
 },
 {
-over = -12;
-pos = -281;
+over = -17;
+pos = -382;
 }
 );
 name = Regular;
 stemValues = (
-44,
-41,
-45,
-110,
-41
+60,
+56,
+61,
+150,
+56
 );
 }
 );
@@ -1319,7 +1319,7 @@ value = MNIK;
 },
 {
 key = vendorID;
-value = "";
+value = MNIK;
 },
 {
 key = versionString;
