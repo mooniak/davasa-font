@@ -1,4 +1,5 @@
 {
+category = Mark;
 color = 11;
 glyphname = endash.013;
 layers = (
@@ -12,5 +13,7 @@ ref = "wipfontnote-lksymbol";
 width = 1097;
 }
 );
+script = sinhala;
+subCategory = Spacing;
 unicode = 3549;
 }
