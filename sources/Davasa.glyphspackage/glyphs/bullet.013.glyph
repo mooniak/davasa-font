@@ -1,0 +1,16 @@
+{
+color = 11;
+glyphname = bullet.013;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "wipfontnote-lksymbol";
+}
+);
+width = 600;
+}
+);
+unicode = 3548;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,205,l),
+(155,205,l),
+(155,109,l),
+(22,109,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(22,419,l),
+(155,419,l),
+(155,323,l),
+(22,323,l)
+);
+}
+);
+width = 184;
+}
+);
+unicode = 58;
+}

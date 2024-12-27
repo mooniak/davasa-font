@@ -1,0 +1,15 @@
+{
+color = 11;
+glyphname = quotedblright.218;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = "wipfontnote-lksymbol";
+}
+);
+width = 600;
+}
+);
+}
